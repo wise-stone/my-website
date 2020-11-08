@@ -1,4 +1,4 @@
 # MY_WEBSITE. Project.
 
-Now editing on update-readme branch
-updated locally.
+This is really awesome website.
+Updates made on master on Github before rebase
